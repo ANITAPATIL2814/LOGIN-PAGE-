@@ -1,0 +1,117 @@
+*{
+    margin: 0%;
+    padding:0%;
+}
+.img{
+   
+    margin:20px 1rem 1rem 39%;
+    width: 10vw;
+}
+body{
+    background-color:#333333;
+    background-image: url(login_page_image/background-circle.png);
+    font-family:'Poppins' sans-serif !important ;
+}
+.header{
+    width: 320px;
+    height: 420px;
+    text-align: center;
+    color: white;
+    margin:20px 1rem 1rem 36%;
+    background: rgb(255 255 255 / 4%);
+    border-radius: 1rem;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+}
+.header head{
+    position: relative;
+    top:7%
+}
+.head2{
+    font-size: 2.4rem;
+    margin-top: 3%;
+    color: #fff;
+    font-weight: 100;
+}
+.head3{
+    color: #fff;
+    font-size: 1.5rem;
+    font-weight: 200;
+    margin: 1rem 38px;
+    opacity: 0.4;
+}
+.in1{
+    margin-top: 20px;
+    background: none;
+    padding: 0.5rem;
+    color:#fff;
+    border: 2px solid #c2c2c2;
+    font-size: 1.2rem;
+    border-radius: 0.7rem;
+}
+.in2{
+    width: 250px;
+    height: 30px;
+    font-size: 1rem;
+    margin-top: 15px;
+    text-align: left; 
+    margin-left: 25px;
+
+}
+.check{
+    accent-color: #b9d719; /*for checkbox use accent property*/
+    background-color: #b9d719;
+    border-radius: 0.25rem; 
+}
+.in3{
+    background-color: #b9d719;
+    border-radius: 7px;
+    border: none;
+    margin-top: 5px;
+    height: 43px;
+    font-size: 1.6rem;
+    width: 260px;
+    font-weight: 500;
+    color: #fff;
+    cursor: pointer;
+}
+.or{
+    text-align: center;
+    line-height: 0.1rem;
+    font-weight: lighter;
+    width: 100%;
+    margin-top: 1.7rem;
+    margin-bottom: 1.5rem;
+    border-bottom: 1px solid #6b5f6e;
+}
+.xyz{
+    background:#43462d;
+    color: #ffffff;
+    padding: 0 1rem;
+    text-align: center;
+}
+.googlelogin{
+    color: #f6f6f6;
+    font-size: 1.2rem;
+    border: 1px solid #fff;
+    border-radius: 0.7rem;
+    text-align: center;
+    padding: 10px 25px;
+    color: #f6f6f6;
+    width: 100%;
+    text-decoration: none;
+}
+.icon{
+    height: 40px;
+    width: 40px;
+    padding: 0px 2px 5px 0px;
+    vertical-align: middle;
+    border: 0;
+    padding-right: 1%;
+}
+.footer,a{
+    text-align: center;
+    color: white;
+    font-size: 1rem; 
+}
+
+
